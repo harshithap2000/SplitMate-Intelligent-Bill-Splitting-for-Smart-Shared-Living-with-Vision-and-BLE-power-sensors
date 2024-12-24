@@ -1,0 +1,1 @@
+# SplitMate-Intelligent-Bill-Splitting-for-Smart-Shared-Living-with-Vision-and-BLE-power-sensors
