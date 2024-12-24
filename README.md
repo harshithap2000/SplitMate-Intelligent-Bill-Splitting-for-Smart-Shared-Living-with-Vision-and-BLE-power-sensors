@@ -93,6 +93,11 @@ SplitMate Gamma is a smart application designed to streamline bill-splitting in 
 - **Raspberry Pi Kit:** For base station programming.
 - **USB Camera:** Vision-based tracking for activity monitoring.
 
+## Documentation
+
+For more detailed information, check the project documentation: [SplitMate Gamma Project PDF]()
+
+
 ---
 
 SplitMate Gamma redefines the way bills are managed in shared living environments, bringing fairness, transparency, and efficiency to cost-sharing through innovative IoT solutions.
