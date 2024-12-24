@@ -95,7 +95,7 @@ SplitMate Gamma is a smart application designed to streamline bill-splitting in 
 
 ## Documentation
 
-For more detailed information, check the project documentation: [SplitMate Gamma Project PDF]()
+For more detailed information, check the project documentation: [SplitMate Gamma Project PDF](Report.pdf)
 
 
 ---
